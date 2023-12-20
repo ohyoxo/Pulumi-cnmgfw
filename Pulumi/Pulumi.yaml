@@ -1,3 +1,0 @@
-name: aws-scala
-runtime: java
-description: A minimal AWS Scala Pulumi program
