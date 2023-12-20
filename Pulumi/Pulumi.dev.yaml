@@ -1,6 +1,0 @@
-config:
-  aws:region: us-west-2
-  container-aws-python:containerPort: "80"
-  container-aws-python:cpu: "512"
-  container-aws-python:memory: "128"
-  pulumi:template: container-aws-python
