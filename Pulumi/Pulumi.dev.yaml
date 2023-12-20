@@ -1,0 +1,7 @@
+config:
+  azure-native:location: WestUS
+  pulumi:template: serverless-azure-python
+  serverless-azure-python:appPath: ./app
+  serverless-azure-python:errorDocument: error.html
+  serverless-azure-python:indexDocument: index.html
+  serverless-azure-python:sitePath: ./www
