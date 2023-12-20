@@ -1,0 +1,6 @@
+name: webapp-kubernetes-python
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A Python program to deploy a web application onto a Kubernetes cluster
